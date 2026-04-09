@@ -1,5 +1,5 @@
 # crep
-## 2026 C언어 과제, 경국대학교 심재창
+## 2026 C언어 과제, [경국대학교](http://www.gknu.ac.kr) [심재창](http://cafe.naver.com/vl)
 
 ### 리포트 소감문
 
